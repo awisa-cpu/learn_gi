@@ -15,6 +15,7 @@ class Teacher{
   String name;
   double salary;
   double? bonus;
+  String? comeHome;
 
   Teacher(this.bonus,{required this.id, required this.name, required this.salary}){
 
