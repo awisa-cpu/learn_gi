@@ -5,3 +5,8 @@ $age = 25;
 $course_of_study = 'Software Engineering';
 $graduating = true;
 $current_cgpa = 4.95;
+
+function printAll(){
+    $name = 'Peter';
+    print($name);
+}
